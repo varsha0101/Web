@@ -1,0 +1,35 @@
+* {
+    padding: 10px;
+    margin: 5px;
+}
+
+.header {
+    background-color: rgb(45, 46, 43);
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color: rgb(196, 180, 180);
+    text-shadow: red 10px 10px 10px;
+}
+
+.head {
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.anch {
+    color: rgb(59, 2, 21);
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.heads {
+    background-color: skyblue;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.heads1 {}
